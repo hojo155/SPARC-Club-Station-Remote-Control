@@ -7,8 +7,7 @@ It aims to record the overall intent, architectural decisions, design details, a
 This is also a bit of an experiment in agile methods and how they can be applied to solution architecture.
 
 Diagraming tool: diagrams.net
-https://www.diagrams.net/
-https://www.draw.io/?mode=github
+https://www.diagrams.net/?mode=github
 
 Decision method: Lightweight Architecural Decision Records (LADR)
 https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records
