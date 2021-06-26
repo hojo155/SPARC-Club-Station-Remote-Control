@@ -1,4 +1,4 @@
-# SPARC-Club-Station-Remote-Control
+# SPARC - Club Station Remote Control
 
 This project describes the SPARC (Southern Peninsula Amateur Radio Club) club station remote control project.
 
